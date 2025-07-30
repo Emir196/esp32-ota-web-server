@@ -1,7 +1,8 @@
-Here's a professional, emoji-enhanced **README.md** in English for your GitHub repository:
 
-```markdown
 # 🚀 ESP32 OTA Web Server with Firmware Update
+
+![WhatsApp Image 2025-07-30 at 18 35 34_301a55da](https://github.com/user-attachments/assets/55d6bac4-5485-403f-acbf-7f461fc41a82)
+
 
 ![Platform](https://img.shields.io/badge/Platform-ESP32-00979D?logo=arduino&logoColor=white)
 ![OTA](https://img.shields.io/badge/Update-OTA_Enabled-4CAF50?logo=upload&logoColor=white)
